@@ -1,0 +1,16 @@
+PODS:
+  - ImmersiveTextField (1.0.0)
+
+DEPENDENCIES:
+  - ImmersiveTextField (from `../ImmersiveTextField`)
+
+EXTERNAL SOURCES:
+  ImmersiveTextField:
+    :path: "../ImmersiveTextField"
+
+SPEC CHECKSUMS:
+  ImmersiveTextField: 470a6f536d8f561c8c3c963fb6a4666d5841d06a
+
+PODFILE CHECKSUM: 94671cd0997bdba5dedb1e215c7b1d73fd0954cd
+
+COCOAPODS: 1.12.1
